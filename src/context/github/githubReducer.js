@@ -4,8 +4,6 @@ import {
   GET_USER,
   GET_REPOS,
   SET_LOADING
-  // SET_ALERT,
-  // REMOVE_ALERT
 } from '../types';
 
 export default (state, action) => {
